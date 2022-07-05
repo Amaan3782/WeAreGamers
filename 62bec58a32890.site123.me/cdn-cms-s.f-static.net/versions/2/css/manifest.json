@@ -1,0 +1,9 @@
+{
+	"name": "WeAreGamers",
+	"short_name": "WeAreGamers",
+	"theme_color": "#557174",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://62bec58a32890.site123.me/",
+	"start_url": "https://62bec58a32890.site123.me/",
+	"icons": [{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=192&height=192&resizeType=pwaIcon&w=&orderScreen=&websiteID=6506609&tranW=&v=css_r153_34364582&moduleID=","sizes":"192x192","type":"image/png"},{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=512&height=512&resizeType=pwaIcon&w=&orderScreen=&websiteID=6506609&tranW=&v=css_r153_34364582&moduleID=","sizes":"512x512","type":"image/png"}]}
